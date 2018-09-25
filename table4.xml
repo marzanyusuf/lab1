@@ -1,0 +1,27 @@
+<persons>
+
+ <person>
+  <sl.no> '1' </sl.no>
+   <name> 'John Doe' </name>
+   <ADDRESS > 'H# 38 R#3 Banani Dhaka'</ADDRESS >
+   <department> 'Sales ' </department >
+   <salary> '20000'</salary>
+  </person>
+  
+  <person>
+  <sl.no> '2' </sl.no>
+   <name> 'Mark Zuckerberg' </name>
+   <ADDRESS > 'Flat# A/1 H# 20 R#18 Mirpur Dhaka'</ADDRESS >
+   <department> 'Accounts ' </department >
+   <salary> '12000'</salary>
+  </person>
+  
+  <person>
+  <sl.no> '3' </sl.no>
+   <name> 'Ala Voski ' </name>
+   <ADDRESS > 'H# 38, R#3, Motijheel'</ADDRESS >
+   <department> 'Human Resource ' </department >
+   <salary> '30000'</salary>
+  </person>
+  
+ </persons>
